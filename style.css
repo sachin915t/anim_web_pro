@@ -65,8 +65,18 @@ body{
 .circle a i{
     font-size: 70px;
 }
-.circle a:hover{
-    color: rgb(230, 230, 230);
+.g:hover{
+    color: rgb(80, 77, 77);
+}
+.y:hover{
+    color: red;
+
+}
+.t:hover{
+    color: skyblue;
+}
+.c:hover{
+    color: rgb(49, 47, 47);
 }
 h1{
     text-align: center;
